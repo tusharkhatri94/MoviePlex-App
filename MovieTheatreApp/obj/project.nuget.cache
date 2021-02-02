@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qYdRnFsL2glgWUD3gY/g5tfsoVKykt74eLd7dPbCNfeiDOHbtMD/whkX2JvgJj04zQET8y6X4qnSRB9kZzAORQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tushar\\source\\repos\\MovieTheatreApp\\MovieTheatreApp\\MovieTheatreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tushar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

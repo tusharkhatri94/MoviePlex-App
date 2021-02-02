@@ -1,0 +1,13 @@
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\bin\Debug\netcoreapp3.1\MovieTheatreApp.exe
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\bin\Debug\netcoreapp3.1\MovieTheatreApp.deps.json
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\bin\Debug\netcoreapp3.1\MovieTheatreApp.runtimeconfig.json
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\bin\Debug\netcoreapp3.1\MovieTheatreApp.runtimeconfig.dev.json
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\bin\Debug\netcoreapp3.1\MovieTheatreApp.dll
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\bin\Debug\netcoreapp3.1\MovieTheatreApp.pdb
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\obj\Debug\netcoreapp3.1\MovieTheatreApp.csprojAssemblyReference.cache
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\obj\Debug\netcoreapp3.1\MovieTheatreApp.AssemblyInfoInputs.cache
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\obj\Debug\netcoreapp3.1\MovieTheatreApp.AssemblyInfo.cs
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\obj\Debug\netcoreapp3.1\MovieTheatreApp.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\obj\Debug\netcoreapp3.1\MovieTheatreApp.dll
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\obj\Debug\netcoreapp3.1\MovieTheatreApp.pdb
+C:\Users\Tushar\source\repos\MovieTheatreApp\MovieTheatreApp\obj\Debug\netcoreapp3.1\MovieTheatreApp.genruntimeconfig.cache
